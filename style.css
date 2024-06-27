@@ -28,3 +28,11 @@ a {
 .description {
     background-color: antiquewhite;
 }
+
+.ingredients {
+    background-color: blueviolet;
+}
+
+.steps {
+    background-color: brown;
+}
